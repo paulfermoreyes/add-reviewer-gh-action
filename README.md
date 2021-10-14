@@ -8,7 +8,7 @@ GitHub will add CODEOWNERS as reviewers at the start of a pull request, before a
 - name: Add Pull Request Reviewer
       uses: paulfermoreyes/add-reviewer-gh-action@1.0.3
       with: 
-        reviewers: "AveryCameronUofR"
+        reviewers: "paulfermoreyes"
         token: ${{ secrets.GITHUB_TOKEN }}
  ```
  
